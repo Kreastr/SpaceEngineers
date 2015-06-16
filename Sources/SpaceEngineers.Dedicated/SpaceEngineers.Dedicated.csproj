@@ -125,6 +125,9 @@
     <Reference Include="SharpDX">
       <HintPath>..\..\3rd\SharpDX\SharpDX.dll</HintPath>
     </Reference>
+    <Reference Include="SteamSDK">
+      <HintPath>..\..\3rd\SteamSDK\debug\x86\SteamSDK.dll</HintPath>
+    </Reference>
     <Reference Include="System">
       <Private>False</Private>
     </Reference>
